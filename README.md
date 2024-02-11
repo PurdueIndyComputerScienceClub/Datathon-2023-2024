@@ -13,7 +13,7 @@ This event is open to everyone! This includes (but is not limited to) Freshman, 
  - **Kickoff Zoom Link:** *TBD*
  - **Canvas Page:** https://iu.instructure.com/enroll/BPAWRG
  - **Website:** *TBD*
- - **Instagram:** https://www.instagram.com/iupui_computer_science_club/
+ - **Instagram:** *N/A*
  - **Discord:**  https://discord.gg/DgYEDzfKJD
 
 ## The Theme: Data Science, Machine Learning, Deep Learning
