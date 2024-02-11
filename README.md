@@ -91,5 +91,7 @@ Below is a list of people you can email in order to get answers to questions. We
 * Treasurer: Nikhil Dhoka – ndhoka@iu.edu
 * Reservationist: William Reindl – wreindl@iu.edu
 * Senator: Edwin Sanchez - edwsanch@iu.edu
+* Social Media Manager: Lulya Fecadu - lfecadu@iu.edu
+* Secretary: Sidra - sina@iu.edu
 
 > Special thanks to Computer Science Department at IUPUI for the assistance with setting up the hackathon! We appreciate it!
